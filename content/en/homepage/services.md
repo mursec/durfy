@@ -1,30 +1,16 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "What's in the Oven?"
+header_menu_title: "What's in the Oven?"
+navigation_menu_title: "What is Fresh?"
 weight: 2
 header_menu: true
 ---
 
-Feature notice: This section displays options to customize title:
+As we build up our revenue, we are currently operating under cottage law, selling our goods person to person and at local farm markets. This approach allows us to reconnect with our community roots and gather the support needed to eventually open a storefront. 
 
-- has a normal section title (`title` = "The Services I Offer"),
-- custom welcome screen title (`header_menu_title` = "Services"),
-- custom navigation menu title (`navigation_menu_title` = "My Services").
+We are currently limiting our baking to Cinnamon rolls and Snickerdoodle cookies. 
 
-That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.
 
----
+![Cinnamon Rolls](images/bP4BhW4o.jpg)
 
-### Nutrition Coaching
-
-This is not an easy task.
-You will likely have to pay money for this.
-
-### Chef Consulting
-
-I can raise your table culture!
-
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
-
-Want to learn more about my services? See [dedicated page](services) with more details.
+Want to see more of what we bake?? See [dedicated page](services) with more details.
