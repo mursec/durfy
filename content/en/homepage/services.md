@@ -11,6 +11,6 @@ As we build up our revenue, we are currently operating under cottage law, sellin
 We are currently limiting our baking to Cinnamon rolls and Snickerdoodle cookies. 
 
 
-![Cinnamon Rolls](images/bP4BhW4o.jpg)
+![Cinnamon Rolls](images/fresh-rolls.png)
 
 Want to see more of what we bake?? See [dedicated page](services) with more details.
